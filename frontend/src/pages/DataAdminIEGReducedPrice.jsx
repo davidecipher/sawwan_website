@@ -36,7 +36,7 @@ export default function DataAdminIEGReducedPrice() {
         
     if(loading){
       return(
-       <div className='container flex justify align' style={{height: '100%'}}>
+       <div className='container flex justify align' style={{marginTop: '20rem'}}>
          <h3>Loading</h3>
        </div>
       )
